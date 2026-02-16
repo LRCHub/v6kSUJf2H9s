@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "centi",
+  "base_artist": "にしな",
+  "createdAt": "2026-02-16T12:08:52.688806Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) [TV edit]",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/01_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_[TV_edit]_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/02_HAWATARI_NIOKU_CENTI_[2-hundred-million-centimeter-long_blades]_-_TV_edit_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) [TV edit]",
+      "artist": "MAXIMUM THE HORMON",
+      "has_synced": true,
+      "path": "select/03_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_[TV_edit]_MAXIMUM_THE_HORMON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/04_HAWATARI_NIOKU_CENTI_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) - feat. ReeK, Shoohey & UN3H)",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/05_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_-_feat._ReeK,_Sh_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/06_HAWATARI_NIOKU_CENTI_[2-hundred-million-centimeter-long_blades]_(TV_edit)_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) (feat. ReeK, Shoohey & UN3H)",
+      "artist": "Will Stetson feat. ReeK, 周平, UN3H",
+      "has_synced": true,
+      "path": "select/07_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_(feat._ReeK,_Sho_Will_Stetson_feat._ReeK,_周平,_UN3H.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Super Space Blaster Centi-Asteroid Invaderpedes 2",
+      "artist": "Steam Powered Giraffe",
+      "has_synced": false,
+      "path": "select/08_Super_Space_Blaster_Centi-Asteroid_Invaderpedes_2_Steam_Powered_Giraffe.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Super Space Blaster Centi-Astroid Invaderpedes 2",
+      "artist": "Steam Powered Giraffe",
+      "has_synced": false,
+      "path": "select/09_Super_Space_Blaster_Centi-Astroid_Invaderpedes_2_Steam_Powered_Giraffe.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI [2-hundred‐million‐centimeter‐long blades] (TV edit)",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": true,
+      "path": "select/10_HAWATARI_NIOKU_CENTI_[2-hundred‐million‐centimeter‐long_blades]_(TV_edit)_マキシマム_ザ_ホルモン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (TV edit)",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/11_HAWATARI_NIOKU_CENTI_(TV_edit)_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) )",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/12_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_)_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/13_HAWATARI_NIOKU_CENTI_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hawatari 2 Oku Centi (TV edit)",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/14_Hawatari_2_Oku_Centi_(TV_edit)_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hawatari 2-oku Centi (TV edit)",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/15_Hawatari_2-oku_Centi_(TV_edit)_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI [2-hundred‐million‐centimeter‐long blades] (TV edit)",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/16_HAWATARI_NIOKU_CENTI_[2-hundred‐million‐centimeter‐long_blades]_(TV_edit)_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "centi",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/pl_01_centi_にしな.txt"
+    }
+  ]
+}
